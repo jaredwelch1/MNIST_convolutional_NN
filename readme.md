@@ -6,7 +6,7 @@ Using the standard MNIST dataset for written digits, this is a notebook explorat
 
 - experiement with feature sizes from convolutional layers. (right now has 32, 64) 
 - try a new CNN using colors. Currently using an input of pictures * grayscale value on MNIST.
-	- right now the small patches are 5*5*1, but with many CNNs they use red, green, yellow color values rather than
+	- right now the small patches are 5 * 5 * 1, but with many CNNs they use red, green, yellow color values rather than
 	grayscale, so when trying with real images keep that in mind
 
 ### Structure:
